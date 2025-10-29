@@ -1,1 +1,1 @@
-# CamelCase-algo
+# CamelCase-algo The function counts the number of words in a camelCase string by starting with one word and adding one for every uppercase letter found. Each uppercase letter indicates the beginning of a new word.
